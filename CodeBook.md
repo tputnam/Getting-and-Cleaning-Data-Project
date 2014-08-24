@@ -2,7 +2,7 @@
 
 ## Data Source and Description
 ###Source
-The dataset used for this project is "Human Activity Recognition Using Smartphones Data Set" .  This dataset and additional information about it is available here: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones][1]
+The dataset used for this project is "Human Activity Recognition Using Smartphones Data Set" .  This dataset and additional information about it are available here: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones][1]
 ###Description
 
 From the website cited above, the description of the data set is as follows:
